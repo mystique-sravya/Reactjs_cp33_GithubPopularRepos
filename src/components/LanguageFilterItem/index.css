@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-container {
+  margin-left: 20px;
+  margin-bottom: 14px;
+}
+.button {
+  height: 30px;
+  padding: 0 16px 0 16px;
+  font-family: 28px;
+  color: #1e293b;
+  font-weight: 600;
+  font-family: 'Roboto';
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.border {
+  border: 2px #0284c7 solid;
+  color: #0284c7;
+  border-radius: 20px;
+}

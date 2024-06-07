@@ -1,0 +1,38 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.list-item-container {
+  width: 260px;
+  background-color: #f8f8ff;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  flex-direction: column;
+  border-radius: 8px;
+}
+.image {
+  width: 100px;
+}
+
+.item-head {
+  font-size: 20px;
+  color: #e73959;
+}
+.wrap-container {
+  display: flex;
+  align-items: center;
+  margin-top: 0;
+  width: 80%;
+  height: 35px;
+}
+.icon-img {
+  width: 23px;
+  height: 23px;
+  margin-right: 10px;
+}
+.count {
+  color: #1e293b;
+  font-weight: 500;
+  font-size: 15px;
+}
